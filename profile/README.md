@@ -1,11 +1,5 @@
-<html>
-<head>
-  <meta name="google-site-verification" content="hvUM7EP8xchObJA_BVKK7WAlJRUaU4kXV4VbDwJBcLg" />
-  <title>Your Website Title</title>
-</head>
-<body>
-  <h1>Welcome to My GitHub Pages Site!</h1>
-
+<!-- Google Site Verification -->
+hvUM7EP8xchObJA_BVKK7WAlJRUaU4kXV4VbDwJBcLg
 
 ## Dragon City Mod APK (Premium Unlocked) v24.12.6 Download Latest Version For Android
 
@@ -98,5 +92,4 @@ Follow these steps to safely download and install Dragon City Mod APK unlimited 
 - Yes, you can join alliances and compete in multiplayer battles with the modded version.
 
 **Is it free?**
-- Absolutely! The modded version is free to download and includes premium features.</body>
-</html>
+- Absolutely! The modded version is free to download and includes premium features.
