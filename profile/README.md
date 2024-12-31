@@ -92,16 +92,3 @@ Follow these steps to safely download and install Dragon City Mod APK unlimited 
 - Absolutely! The modded version is free to download and includes premium features.
 
 ---
-
-### Google Search Console Verification
-
-For **Google Search Console** verification, add the following meta tag into the `<head>` section of your homepage's HTML file:
-
-```html
-<html>
-<head>
-<meta name="google-site-verification" content="hvUM7EP8xchObJA_BVKK7WAlJRUaU4kXV4VbDwJBcLg" />
-<body>
-</body>
-</head>
-</html>
