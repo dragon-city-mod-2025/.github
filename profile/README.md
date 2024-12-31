@@ -1,5 +1,5 @@
-<!-- Google Site Verification -->
-hvUM7EP8xchObJA_BVKK7WAlJRUaU4kXV4VbDwJBcLg
+<head><!-- Google Site Verification -->
+hvUM7EP8xchObJA_BVKK7WAlJRUaU4kXV4VbDwJBcLg</head>
 
 ## Dragon City Mod APK (Premium Unlocked) v24.12.6 Download Latest Version For Android
 
