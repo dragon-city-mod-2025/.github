@@ -1,3 +1,9 @@
+<html>
+  <head>
+  <meta name="google-site-verification" content="hvUM7EP8xchObJA_BVKK7WAlJRUaU4kXV4VbDwJBcLg" />
+</head>
+</html>
+
 
 ## Dragon City Mod APK (Premium Unlocked) v24.12.6 Download Latest Version For Android
 
@@ -92,9 +98,5 @@ Follow these steps to safely download and install Dragon City Mod APK unlimited 
 **Is it free?**
 - Absolutely! The modded version is free to download and includes premium features.
 
-- ### Google Search Console Verification
 
-For **Google Search Console** verification, add the following meta tag into the `<head>` section of your homepage's HTML file:
 
-```html
-<meta name="google-site-verification" content="hvUM7EP8xchObJA_BVKK7WAlJRUaU4kXV4VbDwJBcLg" />
