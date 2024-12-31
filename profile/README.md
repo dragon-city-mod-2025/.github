@@ -1,7 +1,7 @@
 
-  <head>
+  
   <meta name="google-site-verification" content="hvUM7EP8xchObJA_BVKK7WAlJRUaU4kXV4VbDwJBcLg" />
-</head>
+
 
 
 
