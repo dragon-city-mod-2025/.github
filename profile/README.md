@@ -98,4 +98,6 @@ Follow these steps to safely download and install Dragon City Mod APK unlimited 
 For **Google Search Console** verification, add the following meta tag into the `<head>` section of your homepage's HTML file:
 
 ```html
+<head>
 <meta name="google-site-verification" content="hvUM7EP8xchObJA_BVKK7WAlJRUaU4kXV4VbDwJBcLg" />
+</head>
